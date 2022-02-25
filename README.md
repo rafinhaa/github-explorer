@@ -35,12 +35,6 @@ yarn install
 cd ios && pod install && cd ..
 ```
 
-#### Start server
-
-```bash
-yarn run ios
-```
-
 ## ℹ️ Info
 
 #### Preview
