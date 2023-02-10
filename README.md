@@ -24,8 +24,8 @@ do Github, e a cada repositório listando é exibido com uma animação.
 #### Clone the repository
 
 ```bash
-git clone https://github.com/rafinhaa/ignite-reactrn-desafio-04
-cd ignite-reactrn-desafio-04
+git clone https://github.com/rafinhaa/github-explorer-reactn
+cd github-explorer-reactn
 ```
 
 #### Install dependencies
